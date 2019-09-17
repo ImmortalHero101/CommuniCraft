@@ -4,9 +4,15 @@ You might wonder what "CommuniCraft" is, well CommuniCraft is a Minecraft textur
 Communimate is a great place for artists and animators to talk about art or whatever, This texture is being led by some of the members and staff the current list of contributors to the texture pack are:
 
 Confuwusion- Helped set up the GitHub (aka where you are right now)
+
 NormieAnimates- helped set up a few little things like the icon and other stuff
+
 CoMpL3tEKAOS- Made the icon for the CommuniCraft texture pack
+
 Ewan Howell (pewdiepack creator)- Made the Ari texture for the parrot (he doesn't know that we are using it I just decided to add him in)
+
+Upside - Retextured the chicken
+
 
 How to install the CommuniCraft Texture pack 
 1. Download the texture pack as a zip
