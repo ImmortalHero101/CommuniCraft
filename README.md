@@ -14,5 +14,5 @@ How to install the CommuniCraft Texture pack
 3. Rename the folder to CommuniCraft if desired 
 4. Load Minecraft
 5. Go to "Settings" and then "Resource packs"
-6. Click on the "COmmuniCraft" icon" and click ok
+6. Click on the "CommuniCraft" icon" and click ok
 7. Enjoy! 
